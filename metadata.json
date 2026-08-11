@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Platform",
+  "description": "Full-stack MERN e-commerce platform with real-time inventory, secure payments, guest cart sync, MFA admin dashboard, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
